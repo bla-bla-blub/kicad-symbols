@@ -90,6 +90,21 @@ K Level-Shifter CMOS-TTL-Translation
 F http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf
 $ENDCMP
 #
+$CMP SN74LVC2G00W-EP
+D Dual 2-input positive NAND gate
+F https://www.ti.com/lit/ds/symlink/sn74lvc2g00w-ep.pdf?ts=1615971748693&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LVC2G00W-EP
+$ENDCMP
+#
+$CMP SN74LVC2G08-Q1
+D Dual 2-Input Positive-AND Gate
+F https://www.ti.com/lit/ds/symlink/sn74lvc2g08-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1615885595324&ref_url=https%253A%252F%252Fwww.mouser.de%252F
+$ENDCMP
+#
+$CMP SN74LVC2G14DCKR
+D Dual Schmitt-Trigger Inverter
+F https://www.ti.com/lit/ds/symlink/sn74lvc2g14.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1615884511889&ref_url=https%253A%252F%252Fwww.mouser.de%252F
+$ENDCMP
+#
 $CMP SN74LVC2T45DCUR
 D Dual-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, VSSOP-8
 K Level-Shifter CMOS-TTL-Translation

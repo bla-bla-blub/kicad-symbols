@@ -1500,6 +1500,12 @@ K current transducer
 F https://www.lem.com/sites/default/files/products_datasheets/la_55-p_e.pdf
 $ENDCMP
 #
+$CMP LESR_xx-NP
+D LEM Current Transducer LESR series
+K LEM
+F https://www.lem.com/sites/default/files/products_datasheets/lesr_series.pdf
+$ENDCMP
+#
 $CMP LTSR15-NP
 D Current Transducer, Unipolar, 15A, 5V supply, DC, AC, pulsed
 K current transducer
