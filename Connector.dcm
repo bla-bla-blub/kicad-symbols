@@ -1080,6 +1080,14 @@ K male D-SUB connector
 F  ~
 $ENDCMP
 #
+$CMP DB50_Male
+D 50-pin male D-SUB connector
+$ENDCMP
+#
+$CMP DB50_Male_MountingHoles
+D 50-pin male D-SUB connector, Mounting Hole
+$ENDCMP
+#
 $CMP DB9_Female
 D 9-pin female D-SUB connector
 K connector female D-SUB
