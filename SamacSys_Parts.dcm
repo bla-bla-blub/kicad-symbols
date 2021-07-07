@@ -1,9 +1,133 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 112404
+D AMPHENOL RF - 112404 - RF/COAXIAL, BNC JACK, STRAIGHT, 50 OHM, SOLDER
+F http://www.amphenolrf.com/media/downloads/512/112404.pdf
+$ENDCMP
+#
+$CMP 2301843-1
+D TE CONNECTIVITY - 2301843-1 - D-SUB CONN, PLUG, 9POS, THROUGH HOLE
+F https://componentsearchengine.com/Datasheets/2/2301843-1.pdf
+$ENDCMP
+#
+$CMP 2311586-5
+D Conn D-Subminiature F 15 POS Solder RA Thru-Hole 15 Terminal 1 Port
+F https://componentsearchengine.com/Datasheets/1/2311586-5.pdf
+$ENDCMP
+#
+$CMP 44812-0024
+D Headers & Wire Housings
+F https://www.mouser.com/datasheet/2/276/0448120024_PCB_RECEPTACLES-146024.pdf
+$ENDCMP
+#
+$CMP ACPL-C87A-500E
+D Broadcom, ACPL-C87A-500E Optocoupler, Surface Mount, 8-Pin SO
+F https://docs.broadcom.com/docs/AV02-3563EN
+$ENDCMP
+#
+$CMP AD8251ARMZ
+D AD8251ARMZ, Instrumention Amplifier, 80dB CMRR, 10-Pin MSOP
+F http://docs-emea.rs-online.com/webdocs/0e39/0900766b80e39323.pdf
+$ENDCMP
+#
+$CMP DRQ73-470-R
+D Coupled Inductors 47uH 1.14A 0.241ohms
+F https://www.mouser.com/datasheet/2/87/eaton-drq-shielded-drum-core-power-inductors-data--1608608.pdf
+$ENDCMP
+#
+$CMP EL5171ISZ-T13
+D Differential Amplifiers 250MHz Differential Twisted-Pair Drivers
+F https://www.renesas.com/en-us/www/doc/datasheet/el5171-371.pdf
+$ENDCMP
+#
+$CMP INA2134UA_2K5
+D Audio Differential Line Receivers, 0dB (G=1)
+F https://www.ti.com/lit/ds/symlink/ina2134.pdf?ts=1619075970178&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DINA2134UA%252F2K5
+$ENDCMP
+#
+$CMP INA2137UA_2K5
+D Audio Differential Line Receivers, +-6dB (G=1/2 or 2)
+F http://www.ti.com/lit/gpn/INA2137
+$ENDCMP
+#
+$CMP LESR_6-NP
+D SENSOR CURRENT HALL 6A UNIPOLAR
+F https://media.digikey.com/pdf/Data%20Sheets/LEM%20USA%20PDFs/lesr_series.pdf
+$ENDCMP
+#
+$CMP LM2940IMP-5.0_NOPB
+D LDO Regulator Pos 5V 1A SOT223 Texas Instruments LM2940IMP-5.0/NOPB, LDO Voltage Regulator, 1A, 5 V, 26 Vin, 3-Pin SOT-223
+F https://www.ti.com/lit/ds/symlink/lm2940-n.pdf?ts=1615966208882&ref_url=https%253A%252F%252Fwww.ti.com%252Fdocument-viewer%252FLM2940-N%252Fdatasheet%252Fpin_configuration_and_functions
+$ENDCMP
+#
+$CMP LSF0102DPH
+D Translation - Voltage Levels ANALOG & LOGIC ICS
+F https://assets.nexperia.com/documents/data-sheet/LSF0102.pdf
+$ENDCMP
+#
+$CMP MKP1848S55010JP2C
+D Film Capacitors 5uF 1000volt 5% 2 pin 37.5mm LS
+F https://www.mouser.com/datasheet/2/427/mkp1848sdclink-309918.pdf
+$ENDCMP
+#
+$CMP MKP1848S62010JY5F
+D Film Capacitors 20uF 1000volt 5% 4pin 52.5x20.3mm LS
+F https://componentsearchengine.com/Datasheets/1/MKP1848S62010JY5F.pdf
+$ENDCMP
+#
 $CMP NE555DR
 D Single Precision Timer
-K
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PIC32MK1024GPE064-I_PT
+D Microchip PIC32MK1024GPE064-I/PT, 32bit microAptiv MCU Microcontroller, 120MHz, 1.024 MB Flash, 64-Pin TQFP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC32MK-General-Purpose-and-Motor-Control-%20(GPMC)-Family-Datasheet-60001402E.pdf
+$ENDCMP
+#
+$CMP SN65LVDS051PW
+D 400 Mbps LVDS Dual High-Speed Differential Transceiver
+F http://www.ti.com/lit/gpn/sn65lvds051
+$ENDCMP
+#
+$CMP SN65LVDS34D
+D Quad LVDS receiver with 4- to 5-V common-mode range
+F http://www.ti.com/lit/ds/symlink/sn65lvds34.pdf
+$ENDCMP
+#
+$CMP SN65LVDS389DBT
+D Texas Instruments SN65LVDS389DBT, LVDS Transmitter 8-TX, 3  3.6 V, 38-Pin, TSSOP
+F http://www.ti.com/lit/gpn/sn65lvds389
+$ENDCMP
+#
+$CMP SN65LVDS391PW
+D Texas Instruments SN65LVDS391PW, LVDS Transmitter Quad, 3  3.6 V, 16-Pin, TSSOP
+F http://www.ti.com/lit/gpn/sn65lvds391
+$ENDCMP
+#
+$CMP SN74LVC2G08IDCTRQ1
+D Automotive Catalog Dual 2-Input Positive-AND Gate
+F http://www.ti.com/lit/ds/symlink/sn74lvc2g08-q1.pdf
+$ENDCMP
+#
+$CMP SS-60300-011
+D Modular Connectors / Ethernet Connectors R ANG SHIELDED JACK
+F https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-60300-011.pdf
+$ENDCMP
+#
+$CMP SS71800-049F
+D STEWART CONNECTOR - SS71800-049F - CONNECTOR, RJ45, JACK, 8P8C, TH
+F https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss71800-049f.pdf
+$ENDCMP
+#
+$CMP SS71800-049F_single
+D STEWART CONNECTOR - SS71800-049F - CONNECTOR, RJ45, JACK, 8P8C, TH
+F https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss71800-049f.pdf
+$ENDCMP
+#
+$CMP TEL_5-2423
+D Isolated DC/DC Converters Product Type: DC/DC; Package Style: DIP-24; Output Power (W): 5; Input Voltage: 18-36 VDC; Output 1 (Vdc): 15; Output 2 (Vdc): -15; Output 3 (Vdc): N/A
+F https://componentsearchengine.com/Datasheets/2/TEL 5-2423.pdf
 $ENDCMP
 #
 #End Doc Library
